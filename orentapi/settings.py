@@ -40,7 +40,7 @@ SECRET_KEY = 'gc+y_v2tg**dygn19k38*o1dzmk$ieu@2^g%f$&#wct4xh^w)4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bebobackend.herokuapp.com']
 
 
 # Application definition
